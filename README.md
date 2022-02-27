@@ -8,7 +8,7 @@
 
 ### After clicking the "Start championship" button we will get the following screen:
 ![This is an image](https://raw.githubusercontent.com/lironshish/Tournament-data-management-system/master/ReadMe%20pic/screen%203.png)
-### To choose a winner the rules are according to the real rules of the game, so to win you need 3 wins.
+### According to the real rules of the game, a player needs 3 wins to be a winner.
 ![This is an image](https://raw.githubusercontent.com/lironshish/Tournament-data-management-system/master/ReadMe%20pic/screen%207.png)
 ### After a player wins, the appropriate "play game" button can not be pressed again.
 ![This is an image](https://raw.githubusercontent.com/lironshish/Tournament-data-management-system/master/ReadMe%20pic/screen%208.png)
